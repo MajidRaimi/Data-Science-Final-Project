@@ -6,7 +6,7 @@ In this project, we aim to compare the performance of two popular machine learni
 ## 🎓 Team Members
 - Majid Al-Raimi
 - Mahmoud Noor
-- Mashari Al-Jaiban
+- Mashari Al-Jiban
 - Rashid Al-Binali
 - Alwaleed Al-Qurashi
 - Abdulrahman Al-Juhani
