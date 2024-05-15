@@ -9,6 +9,7 @@ In this project, we aim to compare the performance of two popular machine learni
 - Mashari Al-Jaiban
 - Rashid Al-Binali
 - Alwaleed Al-Qurashi
+- Abdulrahman Al-Juhani
 
 ## 🛠 Models Used
 - **Random Forest**: A versatile machine learning model that uses ensemble learning technique for regression and classification tasks.
